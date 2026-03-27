@@ -1,0 +1,39 @@
+# --- FastAPI + server ---
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+
+# --- Environment ---
+python-dotenv==1.0.1
+
+# --- DB ---
+psycopg2-binary==2.9.9
+
+# --- Streamlit frontend ---
+streamlit==1.32.0
+
+# --- HTTP ---
+requests==2.31.0
+
+# --- LangChain ---
+langchain==0.1.14
+langchain-core==0.1.50
+langchain-community==0.0.29
+langchain-huggingface==0.0.3
+langchain-google-genai==1.0.6
+
+# --- Pinecone ---
+pinecone-client==3.1.0
+
+# --- HuggingFace embeddings + reranker ---
+sentence-transformers==2.5.1
+transformers==4.39.3
+torch==2.2.1
+numpy==1.26.4
+
+# --- Reranker ---
+cross-encoder==0.1.0
+
+# --- Document loaders (if you still use them) ---
+pypdf==4.1.0
+unstructured==0.12.4
+langchain-text-splitters==0.0.1
