@@ -1,0 +1,10 @@
+User/Admin (Streamlit)
+      |
+      v
+FastAPI Backend
+  |    |     |
+  |    |     +--> PostgreSQL (users, topics, memberships, chat_history)
+  |    |
+  |    +--> Pinecone (vectors per topic namespace)
+  |
+  +--> Gemini (answer generation + fallback + prompt-improve)
