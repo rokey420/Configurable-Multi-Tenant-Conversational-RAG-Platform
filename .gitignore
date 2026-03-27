@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+*.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Outputs
+eval_report.json
+*.sqlite

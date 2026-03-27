@@ -1,0 +1,74 @@
+[
+  {
+    "qid": "n1",
+    "question": "What is the nucleus and what does it contain?",
+    "expected_sources": ["nucleus_topic_handout.pdf"],
+    "expected_answer": "The nucleus is a membrane-bound organelle that contains most of the cell’s genetic material (DNA) in the form of chromosomes."
+  },
+  {
+    "qid": "n2",
+    "question": "Name two key functions of the nucleus.",
+    "expected_sources": ["nucleus_topic_handout.pdf"],
+    "expected_answer": "Two key functions are storing and protecting DNA, and controlling gene expression by regulating transcription."
+  },
+  {
+    "qid": "n3",
+    "question": "What is the nuclear envelope?",
+    "expected_sources": ["nucleus_transport_envelope.pdf"],
+    "expected_answer": "The nuclear envelope is a double membrane that surrounds the nucleus and separates nuclear processes from the cytoplasm."
+  },
+  {
+    "qid": "n4",
+    "question": "What is the perinuclear space?",
+    "expected_sources": ["nucleus_transport_envelope.pdf"],
+    "expected_answer": "The perinuclear space is the gap between the inner and outer nuclear membranes."
+  },
+  {
+    "qid": "n5",
+    "question": "What are nuclear pore complexes (NPCs) used for?",
+    "expected_sources": ["nucleus_transport_envelope.pdf"],
+    "expected_answer": "Nuclear pore complexes are selective gates that control transport of molecules between the nucleus and cytoplasm."
+  },
+  {
+    "qid": "n6",
+    "question": "What does NLS stand for and what is it used for?",
+    "expected_sources": ["nucleus_transport_envelope.pdf"],
+    "expected_answer": "NLS stands for nuclear localization signal; it is a signal sequence that helps proteins enter the nucleus via regulated import."
+  },
+  {
+    "qid": "n7",
+    "question": "What is the role of Ran in nuclear transport?",
+    "expected_sources": ["nucleus_transport_envelope.pdf"],
+    "expected_answer": "Ran is a small GTPase that provides directionality for nuclear import and export, with Ran-GTP high in the nucleus and Ran-GDP high in the cytoplasm."
+  },
+  {
+    "qid": "n8",
+    "question": "What is the nuclear lamina and what does it do?",
+    "expected_sources": ["nucleus_transport_envelope.pdf"],
+    "expected_answer": "The nuclear lamina is a meshwork of lamin proteins lining the inner nuclear membrane that provides structural support and helps organize chromatin."
+  },
+  {
+    "qid": "n9",
+    "question": "What is chromatin?",
+    "expected_sources": ["nucleus_chromatin_nucleolus.pdf"],
+    "expected_answer": "Chromatin is the DNA–protein complex in the nucleus, where DNA is packaged with histone proteins."
+  },
+  {
+    "qid": "n10",
+    "question": "What is a nucleosome?",
+    "expected_sources": ["nucleus_chromatin_nucleolus.pdf"],
+    "expected_answer": "A nucleosome is DNA wrapped around histone proteins."
+  },
+  {
+    "qid": "n11",
+    "question": "What is the difference between euchromatin and heterochromatin?",
+    "expected_sources": ["nucleus_chromatin_nucleolus.pdf"],
+    "expected_answer": "Euchromatin is loosely packed and often transcriptionally active, while heterochromatin is denser and genes are often silent."
+  },
+  {
+    "qid": "n12",
+    "question": "What is the nucleolus for?",
+    "expected_sources": ["nucleus_chromatin_nucleolus.pdf"],
+    "expected_answer": "The nucleolus produces ribosomal RNA (rRNA) and assembles ribosome subunits."
+  }
+]
